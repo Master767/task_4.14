@@ -19,7 +19,8 @@ LICENSE: [MIT](./license.md)
 9. [Команда __git fetch__](./articles/git_fetch.md)
 10. [Команда __git push__](./articles/git_push.md)
 11. [Команда __git merge__](./articles/git_merge.md)
-12. [Заключение](./articles/resume.md)
+12. [Шпаргалка по командам git](./articles/notes.md)
+13. [Заключение](./articles/resume.md)
 
 ---------
 
